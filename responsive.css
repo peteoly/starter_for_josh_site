@@ -34,4 +34,25 @@
         line-height: 1.4em;
     }
 
+    .about-text {
+        text-align: right;
+        margin-right: 0px;
+        font-size: 1.5em;
+        font-style: italic;
+        font-weight: 400;
+        padding-bottom: 0px;
+    }
+
+}
+@media only screen and (max-width: 768px) {
+    .navbar-collapse {
+        -ms-flex-preferred-size: 100%;
+        flex-basis: 100%;
+        -ms-flex-positive: 1;
+        flex-grow: 1;
+        -ms-flex-align: center;
+        align-items: center;
+        display: flex;
+        justify-content: flex-end;
+    }
 }

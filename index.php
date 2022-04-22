@@ -19,7 +19,7 @@
             
 
           <div class="col-md-4">
-            <img class="img-fluid" alt=“portait3” src="http://206.189.45.97/~mesh20/sub1/ wp-content/themes/starter_for_josh_site/images/game.jpg" alt="woman">
+            <img class="img-fluid" alt=“portait3” src="http://206.189.45.97/~mesh20/sub1/wp-content/themes/starter_for_josh_site/images/port3.jpg" alt="woman">
               <h4 class="article-title">A PORTRAIT</h4>
               <p class="date" >12 December 2020</p>
               <p class="article-p"> STS has never been shy of seeking new terrains of investigation. More and more STS scholars are starting to explore and intervene in the arts. This object of study brings new challenges and opportunities that we want to explore in this session. We would like to gather first of all simply new kinds of knowledge arising from STS study of the arts.
@@ -29,8 +29,8 @@
 
 
           <div class="col-md-4">
-            <img class="img-fluid" alt=“portait4” src="http://206.189.45.97/~mesh20/sub1/ wp-content/themes/starter_for_josh_site/images/game.jpg" alt="woman">
-              <h4 class="article-title">A PORTRAIT</h4>
+            <img class="img-fluid" alt=“portait4” src="http://206.189.45.97/~mesh20/sub1/wp-content/themes/starter_for_josh_site/images/port4.jpg" alt="woman">
+              <h4 class="article-title">B PORTRAIT</h4>
               <p class="date" >12 December 2020</p>
               <p class="article-p"> STS has never been shy of seeking new terrains of investigation. More and more STS scholars are starting to explore and intervene in the arts. This object of study brings new challenges and opportunities that we want to explore in this session. We would like to gather first of all simply new kinds of knowledge arising from STS study of the arts.
               </p>
@@ -38,8 +38,8 @@
           </div>
 
           <div class="col-md-4">
-            <img class="img-fluid" alt=“portait5” src="http://206.189.45.97/~mesh20/sub1/ wp-content/themes/starter_for_josh_site/images/game.jpg" alt="woman">
-              <h4 class="article-title">A PORTRAIT</h4>
+            <img class="img-fluid" alt=“portait5” src="http://206.189.45.97/~mesh20/sub1/wp-content/themes/starter_for_josh_site/images/port5.jpg" alt="woman">
+              <h4 class="article-title">C PORTRAIT</h4>
               <p class="date" >12 December 2020</p>
               <p class="article-p"> STS has never been shy of seeking new terrains of investigation. More and more STS scholars are starting to explore and intervene in the arts. This object of study brings new challenges and opportunities that we want to explore in this session. We would like to gather first of all simply new kinds of knowledge arising from STS study of the arts.
               </p>
